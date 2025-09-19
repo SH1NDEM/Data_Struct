@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Menu.cpp
+  QueueRing.cpp
+  QueueStack.cpp
+  RingBuffer.cpp
+C:\Users\Егор\source\repos\Lab3\QueueRing.cpp(16,20): warning C4244: *=: преобразование "const float" в "int", возможна потеря данных
+  Создание кода...
+  Lab3.vcxproj -> C:\Users\Егор\source\repos\Lab3\x64\Debug\Lab3.exe
